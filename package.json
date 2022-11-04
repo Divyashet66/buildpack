@@ -1,0 +1,14 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "npm": "node index.js"
+  },
+  "author": "Divya Shet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
